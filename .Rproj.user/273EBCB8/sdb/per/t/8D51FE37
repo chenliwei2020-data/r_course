@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "##R course practise\n\nprint(\"start Data Science: Foundations using R Specialization on 11th May 2020\")",
+    "created" : 1592579631714.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2839435606",
+    "id" : "8D51FE37",
+    "lastKnownWriteTime" : 1592579745,
+    "last_content_update" : 1592579745350,
+    "path" : "C:/Users/Chen Liwei/Desktop/course/Data Science_Foundations using R Specialization/r_course/R_course_practise.R",
+    "project_path" : "R_course_practise.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
